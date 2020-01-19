@@ -1,4 +1,4 @@
-## Content
+## Contents
 * Exercise 1: 
     * 1.1 Softmax Classification (with Cross-Entropy Loss)
     * 1.2 Implementing a Neural Network
